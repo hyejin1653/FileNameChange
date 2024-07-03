@@ -1,0 +1,14 @@
+D:\Project\FileNameChange\FileNameChange\bin\Debug\FileNameChange.exe.config
+D:\Project\FileNameChange\FileNameChange\bin\Debug\FileNameChange.exe
+D:\Project\FileNameChange\FileNameChange\bin\Debug\FileNameChange.pdb
+D:\Project\FileNameChange\FileNameChange\obj\Debug\FileNameChange.Form1.resources
+D:\Project\FileNameChange\FileNameChange\obj\Debug\FileNameChange.Properties.Resources.resources
+D:\Project\FileNameChange\FileNameChange\obj\Debug\FileNameChange.csproj.GenerateResource.cache
+D:\Project\FileNameChange\FileNameChange\obj\Debug\FileNameChange.csproj.CoreCompileInputs.cache
+D:\Project\FileNameChange\FileNameChange\obj\Debug\FileNameChange.exe
+D:\Project\FileNameChange\FileNameChange\obj\Debug\FileNameChange.pdb
+D:\Project\FileNameChange\FileNameChange\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Project\FileNameChange\FileNameChange\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Project\FileNameChange\FileNameChange\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Project\FileNameChange\FileNameChange\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Project\FileNameChange\FileNameChange\obj\Debug\FileNameChange.csproj.CopyComplete
